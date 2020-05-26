@@ -1,17 +1,25 @@
 # Understanding Heavy and Light Quark Brownian Motion from AdS/CFT
 
-**ALL THE MATERIAL IN THIS REPOSITORY WILL BECOME AVAILABLE UPON SUBMISSSION OF MASTERS DISSERTATION. THE READ-ME WILL BE UPDATED AT THIS TIME.**
-
 This repository holds the work of Alexes Mes in AdS/CFT Brownian Motion.
 The latest versions of all documents are kept here.
 
 There is a dissertation which can be found in the publications folder of this repository.
 
+The code is organised into four comprehensively annotated Mathematica notebooks containing: (a) the mapping of the heavy and light quark test string solutions between the worldsheet parameter space and target spacetime (MappingWorldSheetToTarget.nb); (b) calculations pertaining to the analysis of heavy and light quark test strings undergoing Brownian motion (BrownianMotion.nb); (c) the expansion of the AdSd-Schwarzschild metric in the near-horizon region for the light quark’s test string configuration (NearHorizonAdSd.nb); and (d) drag force calculations in AdS/CFT (DragForce.nb).
+
 ### Citing the material
 
 **Please cite any material used from this repository appropriately.**
 
-For the Mathematica code pertaining to the light and quark brownian motion, please cite: ......
+For the Mathematica code pertaining to the light and quark brownian motion, please cite: Mes, A.K., 2020, May. Understanding Heavy and Light Quark Brownian Motion from AdS/CFT.
+```
+  @misc{mes2020brownian,
+  title={Understanding Heavy and Light Quark Brownian Motion from AdS/CFT},
+  author={Mes, A},
+  howpublished = {\url{https://github.com/AlexesMes/brownian-motion-of-quarks}},
+  year={2020}
+}
+```
 
 ### Downloading the data
 
