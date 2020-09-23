@@ -1,9 +1,9 @@
-# Understanding Heavy and Light Quark Brownian Motion from AdS/CFT
+# Strongly Coupled Heavy and Light Quark Thermal Motion from AdS/CFT
 
 This repository holds the work of Alexes Mes in AdS/CFT Brownian Motion.
 The latest versions of all documents are kept here.
 
-There is a dissertation which can be found in the publications folder of this repository.
+There is an article and dissertation which can be found in the publications folder of this repository.
 
 The code is organised into four comprehensively annotated Mathematica notebooks containing: (a) the mapping of the heavy and light quark test string solutions between the worldsheet parameter space and target spacetime (MappingWorldSheetToTarget.nb); (b) calculations pertaining to the analysis of heavy and light quark test strings undergoing Brownian motion (BrownianMotion.nb); (c) the expansion of the AdSd-Schwarzschild metric in the near-horizon region for the light quark’s test string configuration (NearHorizonAdSd.nb); and (d) drag force calculations in AdS/CFT (DragForce.nb).
 
@@ -11,13 +11,15 @@ The code is organised into four comprehensively annotated Mathematica notebooks 
 
 **Please cite any material used from this repository appropriately.**
 
-For the Mathematica code pertaining to the light and quark brownian motion, please cite: Mes, A.K., 2020, May. Understanding Heavy and Light Quark Brownian Motion from AdS/CFT.
+For the Mathematica code pertaining to the light and quark brownian motion, please cite the article 'Strongly Coupled Heavy and Light Quark Thermal Motion from AdS/CFT':
 ```
-  @misc{mes2020brownian,
-  title={Understanding Heavy and Light Quark Brownian Motion from AdS/CFT},
-  author={Mes, A},
-  howpublished = {\url{https://github.com/AlexesMes/brownian-motion-of-quarks}},
-  year={2020}
+@misc{mes2020strongly,
+    title={Strongly Coupled Heavy and Light Quark Thermal Motion from AdS/CFT},
+    author={A. K. Mes and R. W. Moerman and J. P. Shock and W. A. Horowitz},
+    year={2020},
+    eprint={2008.09196},
+    archivePrefix={arXiv},
+    primaryClass={hep-th}
 }
 ```
 
